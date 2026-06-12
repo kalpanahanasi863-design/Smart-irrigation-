@@ -1,1 +1,1 @@
-# Smart-irrigation-
+Smart irrigation is an advanced watering system that uses technology to optimize water usage in agriculture, landscaping, and gardening. Unlike traditional irrigation methods that operate on fixed schedules, smart irrigation systems monitor environmental conditions and provide water only when and where it is needed.
